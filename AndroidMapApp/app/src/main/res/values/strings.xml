@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidMapApp</string>
+    <string name="title_activity_coordinates">Coordinates</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>

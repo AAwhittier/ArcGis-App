@@ -1,7 +1,4 @@
-# ArcGis App
- An Android map app created with ArcGis
-
- # Overview
+# Overview
 
 This is an Android app created to interface with ArcGis to show the user a map and allows them to
 search for a location on the map to be displayed. It was created with the intent to become familiar
